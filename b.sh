@@ -1,4 +1,5 @@
 #!/bin/bash
+# for quick build .asm
 
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <input.asm>"
