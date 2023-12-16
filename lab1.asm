@@ -94,3 +94,4 @@ replace_newline:
     int 80h
     
 ret
+; usage with b.sh: `./b.sh lab1.asm; ./lab1/lab1`
